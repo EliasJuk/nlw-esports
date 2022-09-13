@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-  🚀 Aplicação desenvolvida durante o NLW da Rocketseat 🚀
+  🚀 Application developed during the NLW by Rocketseat 🚀
 </h4>
 
 <p align="center">
@@ -24,5 +24,25 @@
 ---
 
 <h1 align="center">
-    <img alt="landing-page" title="landing-page" src="readme/landing-page.png" width="600px" />
+    <img alt="landing-page" title="landing-page" src="readme/landing-page.png" width="650px" />
 </h1>
+
+<p>&nbsp;</p>
+
+## :rocket: Technologies
+
+This project was developed with the following technologies:
+
+- [Node.js](https://nodejs.org/en/) 
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+- [VITE](https://vitejs.dev/)
+- [TAILWINDCSS](https://tailwindcss.com/)
+- [PHOSPHOR ICONS](https://phosphoricons.com/)
+
+---
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) for details.
