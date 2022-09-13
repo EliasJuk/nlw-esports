@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NLW-eSports" title="#NLW-eSports" src="readme/logo-nlw-esports.svg" width="300px" />
+    <img alt="NLW-eSports" title="#NLW-eSports" src="readme/logo-nlw-esports.svg" width="350px" />
 </h1>
 
 <h4 align="center"> 
@@ -24,5 +24,5 @@
 ---
 
 <h1 align="center">
-    <img alt="landing-page" title="landing-page" src="readme/landing-page.png" width="500px" />
+    <img alt="landing-page" title="landing-page" src="readme/landing-page.png" width="600px" />
 </h1>
