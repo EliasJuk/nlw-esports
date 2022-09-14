@@ -40,6 +40,23 @@ This project was developed with the following technologies:
 - [VITE](https://vitejs.dev/)
 - [TAILWINDCSS](https://tailwindcss.com/)
 - [PHOSPHOR ICONS](https://phosphoricons.com/)
+- [REACTNAVIGATION](https://reactnavigation.org/)
+- [PRISMA](https://www.prisma.io/)
+
+---
+
+### ❕ Install API
+
+```bash
+# Run Back-end
+$ npm run dev
+
+# Migrations
+$ npx prisma migrate dev
+
+# Migrations Preview
+$ npx prisma studio
+```
 
 ---
 
