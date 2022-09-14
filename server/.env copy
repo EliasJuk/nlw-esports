@@ -1,1 +1,1 @@
-DATABASE_URL="file:./src/database/db.sqlite"
+DATABASE_URL="file:../src/database/db.sqlite"
