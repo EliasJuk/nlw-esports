@@ -27,6 +27,15 @@
     <img alt="landing-page" title="landing-page" src="readme/landing-page.png" width="650px" />
 </h1>
 
+---
+
+<h1 align="center">
+    <img src="readme/Screenshot_01.png" width="150px" />
+    <img src="readme/Screenshot_02.png" width="150px" />
+    <img src="readme/Screenshot_03.png" width="150px" />
+    <img src="readme/Screenshot_04.png" width="150px" />
+</h1>
+
 <p>&nbsp;</p>
 
 ## :rocket: Technologies
@@ -42,6 +51,8 @@ This project was developed with the following technologies:
 - [PHOSPHOR ICONS](https://phosphoricons.com/)
 - [REACTNAVIGATION](https://reactnavigation.org/)
 - [PRISMA](https://www.prisma.io/)
+- [RADIX](https://www.radix-ui.com/)
+- [Expo Svg](https://docs.expo.dev/versions/latest/sdk/svg/)
 
 ---
 
@@ -51,6 +62,14 @@ This project was developed with the following technologies:
 # Run Back-end
 $ npm run dev
 
+# Run Web
+$ npm run dev
+
+# Run Mobile - Emulador Android Studio
+$ npm run android
+
+
+# BACK-END
 # Migrations
 $ npx prisma migrate dev
 
